@@ -1,0 +1,30 @@
+.background{
+    background-color: blueviolet;
+    background-image: url("./images/background.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.name{
+    color:white;
+    text-align:center;
+}
+
+.about{
+    color:white;
+    text-align:center;
+}
+
+.read-more{
+    text-align:center;
+}
+
+html, body{
+    margin:0;
+    padding:0;
+}
+
+.profile-pic img{
+    display: flex;
+
+}
